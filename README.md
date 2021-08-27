@@ -23,7 +23,7 @@ I am from Bangladesh. I have experience working in the field of Computer Vision 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagor saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagor saha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sagor-saha-047001111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagor saha" height="30" width="40" /></a>
 <a href="https://fb.com/sagor saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagor saha" height="30" width="40" /></a>
 <a href="https://sagarsaha455.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium@sagarsaha455" height="30" width="40" /></a>
 </p>
