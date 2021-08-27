@@ -13,7 +13,7 @@ I am from Bangladesh. I have experience working in the field of Computer Vision 
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Sagor-Saha?tab=repositories)
 
-- 📝 I regularly write articles on [https://sagarsaha455.medium.com/](https://sagarsaha455.medium.com/)
+- 📝 I regularly write articles on [medium](https://sagarsaha455.medium.com/)
 
 - 💬 Ask me about **statistics, python, data science, deep learning etc.**
 
