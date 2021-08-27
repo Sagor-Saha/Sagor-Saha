@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagor Saha</h1>
 <h3 align="center">I am a Machine Learning and Computer Vision practioner</h3>
 
+![design and development](https://github.com/Sagor-Saha/Sagor-Saha/blob/main/rsz_image.jpg)
+### Bio
+I am from Bangladesh. I have experience working in the field of Computer Vision and development. My researchh interest lies in Machine learning, robotics, wearable technologies, image-processing.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor-saha&label=Profile%20views&color=0e75b6&style=flat" alt="sagor-saha" /> </p>
 
-- 🔭 I’m currently looking for job [in Machine learning](and Computer Vision)
+- 🔭 I’m currently looking for job in Machine learning and Computer Vision
 
 - 🌱 I’m currently learning **data sciences, machine learning and computer vision**
 
